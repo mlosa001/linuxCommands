@@ -1,15 +1,15 @@
 ## BASIC NAVIGATION
 
-cd - Change Directory
+`cd` - Change Directory
     Example use cases
-    cd .. - Change to parent directory <br />
-    cd - return to root directory <br />
-    cd ../example/example - navigating multiple levels of a file tree <br />
+    `cd` .. - Change to parent directory <br />
+    `cd` - return to root directory <br />
+    `cd` ../example/example - navigating multiple levels of a file tree <br />
 
-ls - list files in a directory
+`ls` - list files in a directory
     Example use cases<br />
-ls -l : long detailed listing includes detailed read/write permissions, date file was created, date file was created, and name of the file 
-ls -a: list all (including hidden)
+`ls` -l : long detailed listing includes detailed read/write permissions, date file was created, date file was created, and name of the file 
+`ls` -a: list all (including hidden)
 
 pwd - Present Working Directory
     List current absolute directory
