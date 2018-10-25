@@ -99,4 +99,4 @@
 `{command} --help` : shows description and usage of a command.
 
 `man` : search the manual for a command
-
+`info` : gives more detailed information about a command then it's respective man pages
