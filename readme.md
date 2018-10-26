@@ -102,3 +102,4 @@
 ## OTHER
 
 `cal` : displays the calendar in the terminal
+`date` : displays the current date and time in the terminal
